@@ -75,4 +75,4 @@ The goal is to evaluate **efficiency, scalability, and accuracy** across differe
 CSP-based modeling outperformed DFS and BFS for crossword solving in both **accuracy and scalability**, demonstrating the value of constraint programming for combinatorial AI problems.
 
 📘 [Full Report (PDF)](https://github.com/MintesnotYIMER/crossword-solver-ai/blob/main/AI_Crossword_Puzzle_Report.pdf)  
-💻 [Colab Notebook]((https://colab.research.google.com/drive/1LhpFpYv-6dL7AYwHu901vP7djHr9NUlO?usp=sharing))
+💻 [Colab Notebook](https://colab.research.google.com/drive/1LhpFpYv-6dL7AYwHu901vP7djHr9NUlO?usp=sharing)
