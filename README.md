@@ -62,7 +62,7 @@ The goal is to evaluate **efficiency, scalability, and accuracy** across differe
 ---
 
 ## 💻 How to Run
-- Open this notebook: (https://colab.research.google.com/drive/1LhpFpYv-6dL7AYwHu901vP7djHr9NUlO?usp=sharing)
+- Open the Colab notebook → [Google Colab Link](https://colab.research.google.com/drive/1LhpFpYv-6dL7AYwHu901vP7djHr9NUlO?usp=sharing)  
 - Run all cells (Runtime → Run all).
 - When prompted, enter:
    1 → Small Grid + Small Dictionary (python-constraint)
